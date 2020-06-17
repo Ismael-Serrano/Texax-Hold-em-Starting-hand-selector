@@ -10,7 +10,7 @@ Users only need to provide three pieces of information by clicking on three colu
 After that, a chart with the recommended range of cards to be played will appear on screen. Players can modify the card ranges they consider worth playing for each combination of the three variables mentioned above. Charts can be found in the hidden sheet "Tables vault"
 
 
-In addition, note the aplication contains the following abbreviations:
+In addition the aplication contains the following abbreviations:
 
 Hero OR -> Hero Open raise
 
