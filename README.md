@@ -13,14 +13,25 @@ After that, a chart with the recommended range of cards to be played will appear
 In addition, note the aplication contains the following abbreviations:
 
 Hero OR -> Hero Open raise
+
 Hero vs OR -> Hero versus Open raise
+
 Hero vs L -> hero versus lead
+
 Hero vs 3B -> Hero versus three bet
+
 Hero vs 4B -> Hero versus four bet
+
 Hero SQZ -> Hero Squeeze
+
 UTG -> Under the gun
+
 MP -> Middle position
+
 CO -> Cutoff
+
 BU -> Button
+
 SB -> Small Blind
+
 BB ->Big Blind
